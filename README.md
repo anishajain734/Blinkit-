@@ -3,6 +3,9 @@
 ## 📊 Project Overview
 This project is an end-to-end **Power BI** analytical suite designed to provide a 360-degree view of Blinkit’s business performance. By integrating sales, marketing, and inventory data, this dashboard enables stakeholders to make data-driven decisions on stock management, customer retention, and marketing ROI.
 
+
+---
+
 ## 🖼️ Dashboard Preview
 | Page | Description |
 | :--- | :--- |
@@ -10,6 +13,9 @@ This project is an end-to-end **Power BI** analytical suite designed to provide 
 | **Customer** | Behavioral mapping, retention trends, and segment performance. |
 | **Marketing** | Conversion efficiency, ROAS analysis, and channel attribution. |
 | **Product** | BCG Matrix, stock availability, and expiry/freshness analytics. |
+
+
+---
 
 ## 📸 Dashboard Screenshots
 
@@ -27,3 +33,14 @@ This project is an end-to-end **Power BI** analytical suite designed to provide 
 
 ### Data Model — Snowflake Schema
 ![Snowflake Schema](Snowflake%20Schema..png)
+
+
+---
+
+## 👩‍💻 Author
+
+**Anisha Jain**
+
+- GitHub: [@anishajain734](https://github.com/anishajain734)
+- LinkedIn: [in/anisha-jain-762514176](https://linkedin.com/in/anisha-jain-762514176)
+- Email: [jainanisha734@gmail.com](mailto:jainanisha734@gmail.com)
