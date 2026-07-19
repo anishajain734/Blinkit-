@@ -11,9 +11,19 @@ This project is an end-to-end **Power BI** analytical suite designed to provide 
 | **Marketing** | Conversion efficiency, ROAS analysis, and channel attribution. |
 | **Product** | BCG Matrix, stock availability, and expiry/freshness analytics. |
 
-*Insert screenshots here:*
-```markdown
-![Main Page](docs/screenshots/main.png)
-![Customer Page](docs/screenshots/customer.png)
-![Marketing Page](docs/screenshots/marketing.png)
-![Product Page](docs/screenshots/product.png)
+## 📸 Dashboard Screenshots
+
+### Main Page
+![Main Page](Main.png)
+
+### Customer Page
+![Customer Page](Customer.png)
+
+### Marketing Page
+![Marketing Page](Marketing%20Performance.png)
+
+### Product Page
+![Product Page](Product.png)
+
+### Data Model — Snowflake Schema
+![Snowflake Schema](Snowflake%20Schema..png)
