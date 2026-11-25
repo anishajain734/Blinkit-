@@ -32,7 +32,7 @@ This project is an end-to-end **Power BI** analytical suite designed to provide 
 ![Product Page](Product.png)
 
 ### Data Model — Snowflake Schema
-![Snowflake Schema](Snowflake%20Schema..png)
+![Snowflake Schema](Snowflake%20Schema.png)
 
 
 ---
